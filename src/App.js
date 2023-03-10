@@ -11,7 +11,7 @@ const App = () => {
     <Router>
       <TopNavbar />
 
-      <div className="pages">
+      <div>
         <Routes>
           <Route path="/" element={<Infinity />} />
 
