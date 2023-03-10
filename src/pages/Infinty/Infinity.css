@@ -1,0 +1,12 @@
+.heading {
+  border: 1px solid black;
+  padding: 9px;
+  margin: 12px;
+  font-size: 25px;
+}
+
+.ptag {
+  font-size: 30px;
+  margin-top: 10px;
+  padding-top: 10px;
+}
