@@ -15,7 +15,7 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Infinity />} />
 
-          <Route path="/squaresplit" element={<SquareSplit />} />
+          <Route path="/square" element={<SquareSplit />} />
         </Routes>
       </div>
     </Router>

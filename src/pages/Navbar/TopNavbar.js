@@ -22,7 +22,7 @@ export function TopNavbar() {
             </a>
           </li>
           <li>
-            <a className="dropdown-item" href="/squaresplit">
+            <a className="dropdown-item" href="/square">
               2. SquareSplit
             </a>
           </li>
